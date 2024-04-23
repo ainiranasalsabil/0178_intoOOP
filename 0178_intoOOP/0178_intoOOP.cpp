@@ -30,7 +30,8 @@ public:
 		cout << "SKS: ";
 		cin >> sks;
 	}
-	void output() {}
+	void output() {
+	cout << "Kode MK: " << kodeMK << endl;
 
-
+    }
 };
