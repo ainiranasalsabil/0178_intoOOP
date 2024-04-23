@@ -19,4 +19,5 @@ public:
 		return panjang * lebar;
 	}
 
-	
+	void display() {
+		
