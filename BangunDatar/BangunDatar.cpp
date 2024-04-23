@@ -12,4 +12,5 @@ public:
 
 		cout << "Masukan Panjangnya =";
 		cin >> panjang;
+		cout << "Masukan Lebarnya =";
 		
