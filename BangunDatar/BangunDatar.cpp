@@ -10,4 +10,6 @@ public:
 
 	void input() { // methode input persegi panjang
 
+		cout << "Masukan Panjangnya =";
 		
+	
