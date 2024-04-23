@@ -43,6 +43,7 @@ int main() {
 	Matakuliah mk;
 
 	mhs.nama = "Budi";
+	mhs.umur = 20;
 	
 
 
