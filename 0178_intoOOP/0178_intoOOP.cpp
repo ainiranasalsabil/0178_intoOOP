@@ -30,5 +30,7 @@ public:
 		cout << "SKS: ";
 		cin >> sks;
 	}
+	void output() {}
+
 
 };
