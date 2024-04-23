@@ -16,4 +16,7 @@ public: //akses modifier
 
 };
 
-class Matakuliah {};
+class Matakuliah {
+private:
+
+};
